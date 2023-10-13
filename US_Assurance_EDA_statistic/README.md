@@ -1,0 +1,4 @@
+- Context: Practice EDA with an insurance dataset.
+- Task: Construct basic linear regression models and multiple linear regression models.
+- Action: Data preparation, feature selection, model building, model training, model evaluation, visualization, interpretation.
+- Result: The multiple linear regression model was more accurate in building predictions in comparison with the simple linear model. I estimated the variations in the data and computed the metrics.
